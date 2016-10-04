@@ -19,7 +19,7 @@ namespace InputOuputClass
         private void WriteProductToFile(List<Recipe> recipe)
         { 
             try
-            {   // WHAZZZZZZZZZZ UPPPsldkakdlsöakldöa
+            {   // WHAZZZZZZZZZZ UPPPs
                 using (StreamWriter w = new StreamWriter(FilePath))
                 {
                     foreach (Recipe p in recipe)
