@@ -19,7 +19,7 @@ namespace InputOuputClass
         private void WriteProductToFile(List<Recipe> recipe)
         { 
             try
-            {
+            {   // WHAZZZZZZZZZZ UPPPsldkakdlsöakldöa
                 using (StreamWriter w = new StreamWriter(FilePath))
                 {
                     foreach (Recipe p in recipe)
@@ -67,5 +67,5 @@ namespace InputOuputClass
     internal class Recipe
     {
     }
-    // WHAZZZZZZZZZZ UPPP
+ 
 }
